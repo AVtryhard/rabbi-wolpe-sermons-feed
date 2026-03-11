@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rabbi Wolpe Sermons 1999</title>
+    <title>Rabbi Wolpe Sermons</title>
     <link>https://AVtryhard.github.io/rabbi-wolpe-sermons-feed</link>
-    <description>Archival sermons from 1999.</description>
+    <description>Archival sermons by Rabbi Wolpe.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2026 23:56:37 GMT</lastBuildDate>
     <author>Rabbi David Wolpe</author>
-    <atom:link href="https://AVtryhard.github.io/rabbi-wolpe-sermons-feed/podcast/1999-sermons-feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://AVtryhard.github.io/rabbi-wolpe-sermons-feed/podcast/master-sermons-feed.xml" rel="self" type="application/rss+xml" />
     <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Rabbi David Wolpe</author>
-    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Archival sermons from 1999.</summary>
+    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Archival sermons by Rabbi Wolpe.</summary>
     <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
     <itunes:owner>
       <name xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Rabbi David Wolpe</name>
